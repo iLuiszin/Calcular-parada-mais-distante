@@ -17,4 +17,4 @@ Postos de Gasolina (km): [2, 15, 22, 10.2]
 
 ## 💻Tecnologia utilizada:
 
-- ![](D:\Downloads\Java-ED8B00_style=for-the-badge&logo=java&logoColor=white.jpeg) 
+- ![](![java-logo](https://user-images.githubusercontent.com/79981019/201403513-76071f58-d027-4d8f-99c2-19015ae8a8f3.png)) 
